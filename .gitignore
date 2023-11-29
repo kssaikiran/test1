@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+notebooks/
+data/
+config.yaml
+cxo_chat.egg-info/
+*/out.txt
+test/
